@@ -40,7 +40,7 @@ Visualized key patterns and distributions using:
 - Optimized the number of clusters using Elbow and Silhouette methods.
 
 ## Key Results
-- Successfully predicted missing motivations with a Random Forest model, achieving an accuracy of ~36%.
+- Successfully predicted missing motivations with a Random Forest model.
 - Identified 15 distinct clusters of collisions, categorized by severity (high, medium, low) and characteristics such as time, location, and vehicle type.
 
 ## Societal Impact
